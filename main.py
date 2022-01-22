@@ -5,12 +5,6 @@
 
 # First game built with Pygame
 
-# This version still needs a few tweaks, namely:
-# - Implement a scoring system
-# - Implement a high score storage system
-# - After death, player must be shown their score and the game’s high scores
-
-
 # The main module
 import pygame
 # Imports event handlers. Is not necessary, but did not want to be typing in pygame.<whatever> continuously
